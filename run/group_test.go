@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"selihc.com/glaive/run"
+	"github.com/fortytw2/glaive/run"
 )
 
 func TestZero(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"selihc.com/glaive/run"
+	"github.com/fortytw2/glaive/run"
 )
 
 func ExampleGroup_Add_basic() {
